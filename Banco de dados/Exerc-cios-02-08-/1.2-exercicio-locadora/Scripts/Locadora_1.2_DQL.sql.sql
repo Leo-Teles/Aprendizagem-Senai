@@ -1,0 +1,36 @@
+SELECT * FROM EMPRESA
+ORDER BY idEmpresa
+
+SELECT * FROM CLIENTE 
+
+SELECT * FROM MARCA
+ORDER BY idMarca
+
+SELECT * FROM MODELO
+
+SELECT * FROM VEICULO
+
+SELECT * FROM ALUGUEL
+
+SELECT nomeCliente, dataAluguel, cpfCliente, modeloVeiculo, marcaVeiculo, placaVeiculo, nomeEmpresa FROM ALUGUEL
+LEFT JOIN CLIENTE
+ON ALUGUEL.idCliente = CLIENTE.diCliente
+LEFT JOIN VEICULO
+ON ALUGUEL.idVeuiculo = VEICULO.idVeiculo
+LEFT JOIN MODELO
+ON MODELO.idMorelo = VEICULO.idModelo
+LEFT JOIN MARCA 
+ON MARCA.idMarca = MODELO.idMarca
+LEFT JOIN EMPRESA 
+ON EMPRESA.idEmpresa = VEICULO.idEmpresa
+
+
+SELECT modeloVeiculo, marcaVeiculo, placaVeiculo FROM VEICULO
+LEFT JOIN MODELO
+ON VEICULO.idModelo = MODELO.idModelo
+LEFT JOIN MARCA
+ON MODELO.idMarca = MARCA.idMarca;
+
+
+
+

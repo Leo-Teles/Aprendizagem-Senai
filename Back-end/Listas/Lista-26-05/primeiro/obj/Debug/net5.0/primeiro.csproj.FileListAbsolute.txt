@@ -1,0 +1,48 @@
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\primeiro\bin\Debug\net5.0\primeiro.exe
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\primeiro\bin\Debug\net5.0\primeiro.deps.json
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\primeiro\bin\Debug\net5.0\primeiro.runtimeconfig.json
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\primeiro\bin\Debug\net5.0\primeiro.runtimeconfig.dev.json
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\primeiro\bin\Debug\net5.0\primeiro.dll
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\primeiro\bin\Debug\net5.0\ref\primeiro.dll
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\primeiro\bin\Debug\net5.0\primeiro.pdb
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\primeiro\obj\Debug\net5.0\primeiro.csprojAssemblyReference.cache
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\primeiro\obj\Debug\net5.0\primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\primeiro\obj\Debug\net5.0\primeiro.AssemblyInfoInputs.cache
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\primeiro\obj\Debug\net5.0\primeiro.AssemblyInfo.cs
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\primeiro\obj\Debug\net5.0\primeiro.csproj.CoreCompileInputs.cache
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\primeiro\obj\Debug\net5.0\primeiro.dll
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\primeiro\obj\Debug\net5.0\ref\primeiro.dll
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\primeiro\obj\Debug\net5.0\primeiro.pdb
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\primeiro\obj\Debug\net5.0\primeiro.genruntimeconfig.cache
+C:\Users\DEV\Desktop\Lista-26-05\primeiro\obj\Debug\net5.0\primeiro.pdb
+C:\Users\DEV\Desktop\Lista-26-05\primeiro\bin\Debug\net5.0\primeiro.exe
+C:\Users\DEV\Desktop\Lista-26-05\primeiro\bin\Debug\net5.0\primeiro.deps.json
+C:\Users\DEV\Desktop\Lista-26-05\primeiro\bin\Debug\net5.0\primeiro.runtimeconfig.json
+C:\Users\DEV\Desktop\Lista-26-05\primeiro\bin\Debug\net5.0\primeiro.runtimeconfig.dev.json
+C:\Users\DEV\Desktop\Lista-26-05\primeiro\bin\Debug\net5.0\primeiro.dll
+C:\Users\DEV\Desktop\Lista-26-05\primeiro\bin\Debug\net5.0\ref\primeiro.dll
+C:\Users\DEV\Desktop\Lista-26-05\primeiro\bin\Debug\net5.0\primeiro.pdb
+C:\Users\DEV\Desktop\Lista-26-05\primeiro\obj\Debug\net5.0\primeiro.csproj.AssemblyReference.cache
+C:\Users\DEV\Desktop\Lista-26-05\primeiro\obj\Debug\net5.0\primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\Desktop\Lista-26-05\primeiro\obj\Debug\net5.0\primeiro.AssemblyInfoInputs.cache
+C:\Users\DEV\Desktop\Lista-26-05\primeiro\obj\Debug\net5.0\primeiro.AssemblyInfo.cs
+C:\Users\DEV\Desktop\Lista-26-05\primeiro\obj\Debug\net5.0\primeiro.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Desktop\Lista-26-05\primeiro\obj\Debug\net5.0\primeiro.dll
+C:\Users\DEV\Desktop\Lista-26-05\primeiro\obj\Debug\net5.0\ref\primeiro.dll
+C:\Users\DEV\Desktop\Lista-26-05\primeiro\obj\Debug\net5.0\primeiro.genruntimeconfig.cache
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\Lista-26-05\primeiro\bin\Debug\net5.0\primeiro.exe
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\Lista-26-05\primeiro\bin\Debug\net5.0\primeiro.deps.json
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\Lista-26-05\primeiro\bin\Debug\net5.0\primeiro.runtimeconfig.json
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\Lista-26-05\primeiro\bin\Debug\net5.0\primeiro.runtimeconfig.dev.json
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\Lista-26-05\primeiro\bin\Debug\net5.0\primeiro.dll
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\Lista-26-05\primeiro\bin\Debug\net5.0\ref\primeiro.dll
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\Lista-26-05\primeiro\bin\Debug\net5.0\primeiro.pdb
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\Lista-26-05\primeiro\obj\Debug\net5.0\primeiro.csprojAssemblyReference.cache
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\Lista-26-05\primeiro\obj\Debug\net5.0\primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\Lista-26-05\primeiro\obj\Debug\net5.0\primeiro.AssemblyInfoInputs.cache
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\Lista-26-05\primeiro\obj\Debug\net5.0\primeiro.AssemblyInfo.cs
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\Lista-26-05\primeiro\obj\Debug\net5.0\primeiro.csproj.CoreCompileInputs.cache
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\Lista-26-05\primeiro\obj\Debug\net5.0\primeiro.dll
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\Lista-26-05\primeiro\obj\Debug\net5.0\ref\primeiro.dll
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\Lista-26-05\primeiro\obj\Debug\net5.0\primeiro.pdb
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícios 26-05\Lista-26-05\primeiro\obj\Debug\net5.0\primeiro.genruntimeconfig.cache

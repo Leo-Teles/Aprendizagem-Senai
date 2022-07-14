@@ -1,0 +1,68 @@
+Var validade = false
+
+Inicio!!!
+
+Faça Enquanto{
+
+    Escreval("Qual seu nome")
+    Leia("Teles")
+    Se()
+    {
+        Escreval ("Digite novamente")
+    }
+    Se 
+    {
+        validde = true
+        Escreval("Seu nome foi cadastrado!!!")
+    }
+}
+
+  Var validade = false
+
+  Escreval ("Qual tua idade meno?")
+  Leia(16 anos)
+  Se(cadastroSalario < 0)
+  {
+      Escreval("Digite seu salário novamente")
+  }
+Se{
+    validade = true;
+    Escreval("Seu salário foi cadastrado!!!")
+}
+
+Var validade = false
+
+Escreval ("Estado civil :")
+Leia( Solteiro)
+
+Chave (estadoCivil)
+{
+   Caso("s") 
+   estasoCivil("Solteirão")
+   Escreval("Valor válido")
+   validade = true
+   interrompa
+
+   Caso("c") 
+   estasoCivil("Casadão")
+   Escreval("Valor válido")
+   validade = true
+   interrompa
+
+   Caso("v") 
+   estasoCivil("Viuvão")
+   Escreval("Valor válido")
+   validade = true
+   interrompa
+
+   Caso("d") 
+   estasoCivil("Divorciadão")
+   Escreval("Valor válido")
+   validade = true
+   interrompa
+   
+    outrocaso:
+    Escreval("Valor válido")
+    interrompa
+}
+

@@ -1,0 +1,16 @@
+C:\Users\jaque\Desktop\Senai\Back end\Lista de exercícios 05-05\Exercícios 1\obj\Debug\net5.0\Exercícios 1.csprojAssemblyReference.cache
+C:\Users\jaque\Desktop\Senai\Back end\Lista de exercícios 05-05\Exercícios 1\obj\Debug\net5.0\Exercícios 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaque\Desktop\Senai\Back end\Lista de exercícios 05-05\Exercícios 1\obj\Debug\net5.0\Exercícios 1.AssemblyInfoInputs.cache
+C:\Users\jaque\Desktop\Senai\Back end\Lista de exercícios 05-05\Exercícios 1\obj\Debug\net5.0\Exercícios 1.AssemblyInfo.cs
+C:\Users\jaque\Desktop\Senai\Back end\Lista de exercícios 05-05\Exercícios 1\obj\Debug\net5.0\Exercícios 1.csproj.CoreCompileInputs.cache
+C:\Users\jaque\Desktop\Senai\Back end\Lista de exercícios 05-05\Exercícios 1\bin\Debug\net5.0\Exercícios 1.exe
+C:\Users\jaque\Desktop\Senai\Back end\Lista de exercícios 05-05\Exercícios 1\bin\Debug\net5.0\Exercícios 1.deps.json
+C:\Users\jaque\Desktop\Senai\Back end\Lista de exercícios 05-05\Exercícios 1\bin\Debug\net5.0\Exercícios 1.runtimeconfig.json
+C:\Users\jaque\Desktop\Senai\Back end\Lista de exercícios 05-05\Exercícios 1\bin\Debug\net5.0\Exercícios 1.runtimeconfig.dev.json
+C:\Users\jaque\Desktop\Senai\Back end\Lista de exercícios 05-05\Exercícios 1\bin\Debug\net5.0\Exercícios 1.dll
+C:\Users\jaque\Desktop\Senai\Back end\Lista de exercícios 05-05\Exercícios 1\bin\Debug\net5.0\ref\Exercícios 1.dll
+C:\Users\jaque\Desktop\Senai\Back end\Lista de exercícios 05-05\Exercícios 1\bin\Debug\net5.0\Exercícios 1.pdb
+C:\Users\jaque\Desktop\Senai\Back end\Lista de exercícios 05-05\Exercícios 1\obj\Debug\net5.0\Exercícios 1.dll
+C:\Users\jaque\Desktop\Senai\Back end\Lista de exercícios 05-05\Exercícios 1\obj\Debug\net5.0\ref\Exercícios 1.dll
+C:\Users\jaque\Desktop\Senai\Back end\Lista de exercícios 05-05\Exercícios 1\obj\Debug\net5.0\Exercícios 1.pdb
+C:\Users\jaque\Desktop\Senai\Back end\Lista de exercícios 05-05\Exercícios 1\obj\Debug\net5.0\Exercícios 1.genruntimeconfig.cache

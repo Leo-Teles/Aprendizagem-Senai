@@ -1,0 +1,19 @@
+
+Variavel cadastro = false
+
+Inicio!!
+
+Faça Enquanto{
+    Escreval ("Digite seu nome para se cadastrar")
+    Leia (Teles)
+    Escreval ("Agora digite uma senha para inalizar o cadastro)
+    Leia (123456)
+    Se(cadastroNome == cadastroSenha)
+    {
+        Escreval ("Senha invalida!!!")
+    }
+    Se{
+        cadastro = true;
+        Escreval ("Cadastro finalizado")
+    }
+}

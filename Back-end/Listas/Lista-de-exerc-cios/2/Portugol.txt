@@ -1,0 +1,12 @@
+Início
+ 
+ Escreval("Qual ano do seu nascimento?")
+ Leia(16 anos)
+ I(Calendario.Ano_Atual)
+ I(anoAtual - anoNasc)
+ Escreval("Sua idade é" + idade)
+ Leia(Sua idade é 16)
+ Escreval (idade * 52 + " Semanas")
+ Leia(832 Semanas)
+
+ Fim!

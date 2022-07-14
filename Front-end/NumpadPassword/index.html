@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pad Number Password</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="login_container">
+
+        <input type="password" maxlength="6" name="password" id="password">
+    
+        <div onclick="update()" class="button_container">
+            <button onclick="One()">1</button>
+            <button onclick="Two()">2</button>
+            <button onclick="Three()">3</button>
+            
+            <button onclick="Four()">4</button>
+            <button onclick="Five()">5</button>
+            <button onclick="Six()">6</button>
+            
+            <button onclick="Seven()">7</button>
+            <button onclick="Eight()">8</button>
+            <button onclick="Nine()">9</button>
+            
+            <button onclick="Clear()">c</button>
+            <button onclick="Zero()">0</button>
+            <button onclick="Enter()">↵</button>
+        </div>
+    </div>
+
+    <script>
+
+        let passcode = '';
+
+        function One()   { passcode = passcode + 1; }
+        function Two()   { passcode = passcode + 2; }
+        function Three() { passcode = passcode + 3; }
+        function Four()  { passcode = passcode + 4; }
+        function Five()  { passcode = passcode + 5; }
+        function Six()   { passcode = passcode + 6; }
+        function Seven() { passcode = passcode + 7; }
+        function Eight() { passcode = passcode + 8; }
+        function Nine()  { passcode = passcode + 9; }
+        function Zero()  { passcode = passcode + 0; }
+
+        function update() 
+        {            
+            if(passcode.length < 7)
+            {
+                var pass = document.getElementById('password').value = passcode;
+            }
+        }
+        
+        function Clear()
+        {
+            passcode = '';
+        }
+       
+    </script>
+    
+</body>
+</html>

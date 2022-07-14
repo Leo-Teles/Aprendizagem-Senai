@@ -1,0 +1,16 @@
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícos 13-05\bin\Debug\net5.0\Lista de exercícos 13-05.exe
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícos 13-05\bin\Debug\net5.0\Lista de exercícos 13-05.deps.json
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícos 13-05\bin\Debug\net5.0\Lista de exercícos 13-05.runtimeconfig.json
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícos 13-05\bin\Debug\net5.0\Lista de exercícos 13-05.runtimeconfig.dev.json
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícos 13-05\bin\Debug\net5.0\Lista de exercícos 13-05.dll
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícos 13-05\bin\Debug\net5.0\ref\Lista de exercícos 13-05.dll
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícos 13-05\bin\Debug\net5.0\Lista de exercícos 13-05.pdb
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícos 13-05\obj\Debug\net5.0\Lista de exercícos 13-05.csprojAssemblyReference.cache
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícos 13-05\obj\Debug\net5.0\Lista de exercícos 13-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícos 13-05\obj\Debug\net5.0\Lista de exercícos 13-05.AssemblyInfoInputs.cache
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícos 13-05\obj\Debug\net5.0\Lista de exercícos 13-05.AssemblyInfo.cs
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícos 13-05\obj\Debug\net5.0\Lista de exercícos 13-05.csproj.CoreCompileInputs.cache
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícos 13-05\obj\Debug\net5.0\Lista de exercícos 13-05.dll
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícos 13-05\obj\Debug\net5.0\ref\Lista de exercícos 13-05.dll
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícos 13-05\obj\Debug\net5.0\Lista de exercícos 13-05.pdb
+C:\Users\jaque\Desktop\Senai\Back end\Listas\Lista de exercícos 13-05\obj\Debug\net5.0\Lista de exercícos 13-05.genruntimeconfig.cache

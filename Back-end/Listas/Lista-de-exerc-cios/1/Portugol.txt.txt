@@ -1,0 +1,14 @@
+Inicio!
+Var anos, meses, dias, horas, minutos
+Inicio 
+escreval("Qual a idade da pessoa?")
+leia( 16 anos de idade)
+escreval("Converter anos em meses")
+leia(.12)
+escreval("Converter meses em dias")
+leia(.365)
+escreval("Converter dias em horas")
+leia(.24)
+escreval("Converter horas em minutos")
+leia(.60)
+Fim!

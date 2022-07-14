@@ -1,0 +1,9 @@
+	Início!
+
+Escreval("Diga-me seu salário aqui)
+Real(Salario/100)*30
+Se(Salario<500)
+Escreval("Salário ajustado para"+ salario)
+senao("Você tem Um bom salário")
+
+Fim!

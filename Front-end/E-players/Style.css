@@ -1,0 +1,550 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@600&display=swap');
+
+/* Reset do CSS */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+
+header{
+    background-color: black;
+    height: 80px ;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+ 
+}
+.container_header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+.menu_header{
+    display: flex;
+    justify-content: space-between;
+    width: 700px;
+}
+.menu_header a {
+    color: white;
+    font-size: 24px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.banner{
+    background: linear-gradient(90deg, #000000 0%, #9B9B9B 81.61%);
+    height: 927px;
+    display: flex;
+    justify-content: space-around; 
+    align-items: center;
+}
+.banner_titulo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{ 
+    color: #FF0303;
+    font-family: Titillium Web;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 144px;
+    line-height: 219px;
+    
+}
+h2{
+    font-family: Titillium Web;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 61px;
+    
+}
+.banner_titulo button{ 
+    margin-top: 108px;
+    background-color: #FF0000;
+    color: white;
+    width: 480px;
+    height: 78px;
+    font-size: 40px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: 0;
+    border-radius: 25px;
+}
+.jogos{
+    background-color: black;
+    height: 168px;
+}
+.todos_jogos{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;   
+}
+.como_participar{
+    background-image: url(Fotos/fundo\ warlola.png);
+}
+.img_warzone{
+    width: 100%;
+    height: 827px;
+}
+.parte_black_warzone{
+    height: 800px;
+    width: 100%;
+    background-color: black;
+    clip-path: polygon(100% 0, 100% 75%, 0 100%, 0 24%);
+}
+.black_texto{
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    
+    
+}
+.black_texto h3{
+    font-size: 48px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 30px;
+}
+.black_texto p {
+    font-size: 27px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    width: 600px;
+}
+.personagem_warzone{
+    position: absolute;
+    width: 1067px;
+    height: 600px;
+    left: 1100px;
+    top: 1300px;
+    background: url(Fotos/Personagem\ warzone.png);
+    transform: rotate(-6.37deg);
+    background-size: cover;
+}
+.fundo_aovivo{
+    background-color: #000000;
+    height: 160px; 
+}
+.todos_ao_vivo{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100%;
+  
+}
+.ao_vivo{
+    display: flex;
+}  
+.fundo_aovivo p {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+}
+.linha_ao_vivo{
+    border: 2px solid #FFFFFF;
+    transform: rotate(90deg);
+    width: 120px;
+    height: 1px;
+
+}
+.em_breve{
+    display: flex;
+}
+.em_breve_2{
+    display: flex;
+}
+.fundo_noticia{
+    background: rgba(0, 0, 0, 0.83);
+    height: 1000px;
+    display: flex;
+
+}
+.teste_teste{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.todas_noticias{
+    display: flex;
+    flex-wrap: wrap;
+    width: 751px; 
+    justify-content: space-between;
+    align-items: center;
+}
+.primeira_noticia{
+    background: black;
+    width: 200px;
+    height: 325px;
+    margin-bottom: 20px;
+
+}
+h4{ 
+    color: white ;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    
+}
+.todas_noticias p{
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+}
+
+.segunda_noticia{
+    background: black;
+    width: 200px;
+    height: 325px;
+    margin-bottom: 20px;
+
+}
+.terceira_noticia{
+    background: black;
+    width: 200px;
+    height: 325px;
+    margin-bottom: 20px;
+
+    
+}
+.quarta_noticia{
+    background: black;
+    width: 200px;
+    height: 325px;
+    
+}
+.quinta_noticia{
+    background: black;
+    width: 200px;
+    height: 325px;
+   
+}
+.sexta_noticia{
+    background: black;
+    width: 200px;
+    height: 325px;
+   
+}
+.proximos_jogos{
+    background: linear-gradient(180deg, #000000 0%, rgba(123, 123, 123, 0.4) 51.56%, #000000 100%);
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 4px rgba(0, 0, 0, 0.25);
+    width: 285px;
+    height: 711px;
+}
+.proximos_jogos p{ 
+    color:white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 24px;
+}
+.cor_fla{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+} 
+.data_jogo{
+    display: flex;
+    justify-content: center;
+}
+.footer{
+    background-color: black;
+    height: 343px;
+}
+.conteudo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+h5{
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 36px;
+}
+.links_uteis p {
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px;
+   
+} 
+.paginas p{
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px;
+    
+}
+.img_footer{
+    width: 321px;
+    height: 36px;
+}
+
+.cadastro{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.cadastro p{
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    
+    padding: 40px;
+}
+span{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    font-size: 30px;
+    
+}
+input{
+    width: 168px;
+    height: 36px;
+}
+button{
+    background-color: #001AFF;
+    border: 0;
+    width: 168px;
+    height: 36px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+    font-weight: 900;
+}
+
+    /* CADASTRO DO JOGADOR */
+ 
+.pilotos{
+    background-image: url(Fotos/Rectangle\ 5.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 237px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+   
+}
+.pilotos h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    color: white;
+    
+}
+.fundo_cadastro{
+    background-color: #1E1C21;
+    height: 1110px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.dados_jogador{
+    background: linear-gradient(180deg, #000000 0%, rgba(83, 83, 83, 0.577381) 25%, rgba(196, 196, 196, 0) 87.5%);
+    box-shadow: 1px 1px 20px 4px #000000;
+    width: 770px;
+    height: 629px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.dados_teste{
+    height: 80%;
+}
+.dados_jogador p {
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px; 
+    margin-top: 40px;
+    
+}
+.equipe{
+    padding-top: 60px;
+}
+
+.dados_teste input{
+    background: #ABABAB;
+    width: 575px;
+    height: 30px; 
+}
+.botao{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 19px;
+    color: white;
+    background: #C31616;
+    border-radius: 10px; 
+}
+.tabela_tudo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.lista_jogadores{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 50px;
+    padding: 20px;
+   
+}
+.tabela{
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    border-spacing: 0;
+    width: 770px;
+    
+}
+.tr_jogador{
+    background: #010101;
+    height: 60px;
+}
+
+th{
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    height: 60px;
+    border-bottom: 2px solid #FFFFFF;
+    text-align: left;
+}
+td{
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+height: 60px;
+}
+
+/* CADASTRO DO TIME */
+
+    .fundo_lol{
+        background-image: url(Fotos/fundo\ times.png);
+        height: 237px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .fundo_cadastro_time{
+        background-color: #1E1C21;
+        height: 779px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+       
+    }
+    .dados_times{
+        background: linear-gradient(180deg, #000000 0%, rgba(83, 83, 83, 0.577381) 25%, rgba(196, 196, 196, 0) 87.5%);
+        box-shadow: 1px 1px 20px 4px #000000;
+        width: 770px;
+        height: 340px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+       
+    }
+    .box_cadastro{
+        height: 80%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        
+
+    }
+    .conteudo_cadastro{
+        
+        
+    }
+    .conteudo_cadastro p{
+        color: white;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 20px;
+        margin-top: 40px;   
+    }
+    .dados_times label{
+        color:black;
+        width: 146px;
+        height: 30px;
+        background-color: #ABABAB;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    } 
+    .teste_label{
+        display: flex;
+        flex-direction: column;
+    }
+    .teste_label span{
+        color: white;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 20px;
+        margin-top: 40px; 
+    }
+    .input_file{
+        display: none;
+    }
+    .conteudo_cadastro input{
+        background: #ABABAB;
+        width: 575px;
+        height: 30px;
+    }
+    .botao_2{
+        background: #001F70;
+        border-radius: 10px;
+        width: 257px;
+        height: 40px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 19px;
+        font-weight: bold;
+        color: white;
+        
+    }
+    .tabela_time_tudo{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+     .tabela_time_tudo p{
+        color: white;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 40px;
+        font-weight: bold;
+        padding: 40px;
+    }
+    .tabela_times{
+        border: 2px solid #FFFFFF;
+        box-sizing: border-box;
+        border-spacing: 0;
+        width: 770px;
+    }
+    
+    .tr_time{
+        background: #010101;
+        
+    }
+    .img_arrumar{
+        width: 38px;
+        height: 38px;
+    }
+    

@@ -1,0 +1,18 @@
+Início!!
+
+Variavel validade = false
+
+Enquanto{
+Escreval ("Digite um número de 0 a 10:")
+Leia (5)
+Se(numero <10 ou numero >0)
+{
+validade = true
+}
+Se{
+    Escreval("Número invalido)
+    validade = false
+}
+}
+
+FIm!!

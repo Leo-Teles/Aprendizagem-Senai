@@ -1,0 +1,16 @@
+C:\Users\jaque\Desktop\Novo Projeto\bin\Debug\net5.0\Novo Projeto.exe
+C:\Users\jaque\Desktop\Novo Projeto\bin\Debug\net5.0\Novo Projeto.deps.json
+C:\Users\jaque\Desktop\Novo Projeto\bin\Debug\net5.0\Novo Projeto.runtimeconfig.json
+C:\Users\jaque\Desktop\Novo Projeto\bin\Debug\net5.0\Novo Projeto.runtimeconfig.dev.json
+C:\Users\jaque\Desktop\Novo Projeto\bin\Debug\net5.0\Novo Projeto.dll
+C:\Users\jaque\Desktop\Novo Projeto\bin\Debug\net5.0\ref\Novo Projeto.dll
+C:\Users\jaque\Desktop\Novo Projeto\bin\Debug\net5.0\Novo Projeto.pdb
+C:\Users\jaque\Desktop\Novo Projeto\obj\Debug\net5.0\Novo Projeto.csprojAssemblyReference.cache
+C:\Users\jaque\Desktop\Novo Projeto\obj\Debug\net5.0\Novo Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaque\Desktop\Novo Projeto\obj\Debug\net5.0\Novo Projeto.AssemblyInfoInputs.cache
+C:\Users\jaque\Desktop\Novo Projeto\obj\Debug\net5.0\Novo Projeto.AssemblyInfo.cs
+C:\Users\jaque\Desktop\Novo Projeto\obj\Debug\net5.0\Novo Projeto.csproj.CoreCompileInputs.cache
+C:\Users\jaque\Desktop\Novo Projeto\obj\Debug\net5.0\Novo Projeto.dll
+C:\Users\jaque\Desktop\Novo Projeto\obj\Debug\net5.0\ref\Novo Projeto.dll
+C:\Users\jaque\Desktop\Novo Projeto\obj\Debug\net5.0\Novo Projeto.pdb
+C:\Users\jaque\Desktop\Novo Projeto\obj\Debug\net5.0\Novo Projeto.genruntimeconfig.cache

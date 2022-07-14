@@ -1,0 +1,31 @@
+SELECT * FROM CLINICA
+
+SELECT * FROM VETERINARIO
+
+SELECT * FROM ATENDIMENTO
+
+SELECT * FROM PET
+
+SELECT * FROM RACA
+
+SELECT * FROM TIPOPET
+
+SELECT nomePet, dataNascimento, nomeTipopet, nomeRaca FROM ATENDIMENTO 
+LEFT JOIN RACA
+ON PET.idRaca = RACA.idRaca
+LEFT JOIN TIPOPET
+ON RACA.idTipopet = TIPOPET.idTipopet
+
+
+SELECT dataAtendimento, nomeVeterinario, nomePet, nomeTipopet, nomeRaca FROM ATENDIMENTO
+LEFT JOIN VETERINARIO
+ON VETERINARIO.idVeterinario = ATENDIMENTO.idVeterinario
+LEFT JOIN PET 
+ON ATENDIMENTO.idPet = PET.idPet
+LEFT JOIN RACA
+ON PET.idRaca = RACA.idRaca
+LEFT JOIN TIPOPET
+ON RACA.idTipopet = TIPOPET.idTipopet
+
+
+
